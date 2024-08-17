@@ -1,7 +1,5 @@
-# CG Assignment 1 Jetpack Joyride
+# Computer Graphics Assignment 1 Jetpack Joyride Clone
 
-2021111019 Sriteja Reddy Pashya
+Sriteja Reddy Pashya | 2021111019
 
-## Libraries
-
-- I've added the `glad`, `GLFW` libraries to my `/usr/include` directly, so I didn't have to remove any libraries from my regular folder
+Jetpack Joyride Clone in C++ using OpenGL
